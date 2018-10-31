@@ -1,3 +1,9 @@
+- Name: Prashant Kumar
+  Place: Delhi, India  
+  Bio: I am beginner in the programming world  
+  GitHub: [Prashant Kumar](https://github.com/undercoveruss)    
+  Facebook:  
+
 - Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
